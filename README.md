@@ -16,7 +16,7 @@ Erdos Institute's May Data Science Boot Camp, 2022
 ## Count spoken words in audio clips
 
 Given an audio clip, we want to count the number of spoken words it contains. 
-There are paremeters used to split audio clips at "silences" which we optimize.
+There are parameters used to split audio clips at "silences" which we optimize.
 We use machine learning models to find the features which effect the accuracy of our counter (for example, if our counter more accurate for females than males, we will account for that).
 
 Later, we want to make a model which can associate word counts with people 
